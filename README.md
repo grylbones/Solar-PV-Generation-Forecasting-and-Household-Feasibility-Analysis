@@ -122,10 +122,6 @@ Download data from [NSRDB](https://nsrdb.nrel.gov/) and place CSVs under `data/r
 
 ### Running the Pipeline
 
-Open the notebook in Google Colab:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
-
 The notebook runs in 3 parts:
 
 **Part 1 — Train global model** on 4-location NSRDB data (2020–2024)  

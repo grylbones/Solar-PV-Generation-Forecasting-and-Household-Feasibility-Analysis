@@ -1,0 +1,23 @@
+# Model files (too large for GitHub — host on Google Drive instead)
+*.pkl
+
+# Dataset files (download from NSRDB directly)
+data/raw/
+data/unseen/
+*.csv
+
+# Notebook outputs and checkpoints
+.ipynb_checkpoints/
+outputs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
